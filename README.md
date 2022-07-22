@@ -2,7 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/Beaum1/Hello-Lisp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for the toast GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more peanutbutter click here
 
 ### Markdown
 
